@@ -1,3 +1,17 @@
+<h2>Homework by Evgeniiy Naryshkin (aurcame)<h2>
+Task:<br>
+- split mdt repository in 3 repos:
+<ul>
+    <li>1 <a href="https://github.com/aurcame/mdt-main.git">mdt-main (current)</a></li>
+    <li>2 <a href="https://github.com/aurcame/mdt-css.git">mdt-css</a></li>
+    <li>3 <a href="https://github.com/aurcame/mdt-js.git">mdt-js</a></li>
+</ul>
+- attach mdt-css and mdt-js to mdt-main as submodules
+<br><br>
+result: <br>
+<img src="https://i.imgur.com/5ksoaV4.jpg"/>
+<br><br>
+
 <h1>Material Design One Page HTML Template</h1>
 <p>MD One page template is fully responsive and free to use. This HTML template is based on <a href="http://materializecss.com/">Materialize</a>, a CSS Framework based on Material Design.</p>
 <a href="http://joashpereira.com/templates/material_one_pager/">View Demo</a>

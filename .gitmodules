@@ -1,0 +1,6 @@
+[submodule "mdt-css"]
+	path = mdt-css
+	url = https://github.com/aurcame/mdt-css.git
+[submodule "mdt-js"]
+	path = mdt-js
+	url = https://github.com/aurcame/mdt-js.git
